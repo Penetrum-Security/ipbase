@@ -1,0 +1,5 @@
+*.pyc
+venv/*
+build/*
+dist/*
+ipbase.egg-info/*
